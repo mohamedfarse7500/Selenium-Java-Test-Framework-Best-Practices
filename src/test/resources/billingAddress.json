@@ -1,0 +1,10 @@
+{
+  "firstName":"demo",
+  "lastName":"user",
+  "countryName": "Egypt",
+  "stateName": "Aswan",
+  "addressLine":"cairo",
+  "city":"alex",
+  "postCode":"1240805",
+  "email":"fares@gmail.com"
+}
